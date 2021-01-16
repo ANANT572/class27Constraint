@@ -1,2 +1,2 @@
-# angryBirdsStage2.5
-Angry Birds stage 2.5 with Class Inheritance and Images
+# asynchronousBallMovement
+Boiler plate for ball moving aysnchronously
